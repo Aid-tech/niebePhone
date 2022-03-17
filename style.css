@@ -1,0 +1,28 @@
+#carousel .carousel-item{
+    height: 400px;
+}
+
+#tech{
+    background: url("img/tech.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#header{
+    background: url("img/tech.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.blockquote-footer{
+    color: #ccc;
+}
+
+.p_blog{
+    font-size: 10px;
+}
+
+.p_contact{
+    font-size: 13px;
+}
